@@ -1,0 +1,10 @@
+<! --程序 1-1 -->
+<html>
+<head>
+	<title>我们的班级主页</title>
+</head>
+	<h2 aligm="center">欢迎来到我们的班级网站</h2>
+	<hr>
+	<p>这是我开发的第一个网页</p>
+</body>
+</html>
